@@ -229,7 +229,7 @@ public final class Jsh {
 
 
     /**
-     * Essa classe não deve ser instanciada.
+     *
      */
     private Jsh() {
     }
